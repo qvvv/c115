@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  香樟路一个基于 Vue 3 生态系统的移动 web 应用模板
+  2334一个基于 Vue 3 生态系统的移动 web 应用模板
 </p>
 
 <p align="center">
