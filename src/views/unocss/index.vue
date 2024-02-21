@@ -14,7 +14,7 @@ const onClickLeft = () => history.back()
       This is a simple example of Unocss in action.
     </p>
     <button class="btn border-none btn-green">
-      Click me
+      点 我
     </button>
   </div>
 </template>
